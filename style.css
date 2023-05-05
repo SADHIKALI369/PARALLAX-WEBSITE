@@ -39,6 +39,7 @@
     text-align: center;
     font-size: 16px;
     color: #313534;
+    font-family:sans-serif;
 
 }
 
@@ -79,6 +80,7 @@
     padding-right: 113px;
     padding-left: 105px;
     font-size: 17px;
+    font-family:sans-serif;
 }
 
 .nine {
@@ -117,6 +119,7 @@
     padding-right: 106px;
     font-size: 17px;
     padding-bottom: 54px;
+    font-family:sans-serif;
 }
 
 .lastimage {
@@ -141,4 +144,5 @@
     left: 446px;
     width: 313px;
     padding-left: 37px;
+    font-family:sans-serif;
 }
