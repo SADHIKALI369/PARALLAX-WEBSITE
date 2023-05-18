@@ -1,1 +1,1 @@
-<a href="https://github.com/SADHIKALI369/PARALLAX-WEBSITE">PARALLAX WEBSITE</a>
+<a href="https://sadhikali369.github.io/PARALLAX-WEBSITE/">PARALLAX WEBSITE</a>
